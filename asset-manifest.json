@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/enesince98.github.io/static/css/main.31d6cfe0.css",
-    "main.js": "/enesince98.github.io/static/js/main.29798e34.js",
-    "index.html": "/enesince98.github.io/index.html",
-    "main.29798e34.js.map": "/enesince98.github.io/static/js/main.29798e34.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.29798e34.js",
+    "index.html": "/index.html",
+    "main.29798e34.js.map": "/static/js/main.29798e34.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
